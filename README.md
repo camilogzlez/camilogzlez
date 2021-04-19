@@ -3,7 +3,8 @@
 - But my recent passion is coding :computer:
 - I'm constantly looking for new exciting adventures 🤔 
 - With the purpose of achieving the next level :rocket: 
-- Havin fun on the way.:see_no_evil: :hear_no_evil::speak_no_evil:
+- Havin fun on the way.:see_no_evil: :hear_no_evil::speak_no_evil:, loving and respecting :evergreen_tree:!
+- :bicyclist: everywhere!
 - Meeting nice and interesting cohunters :octocat::man_with_gua_pi_mao::princess:
 
 My projects:
