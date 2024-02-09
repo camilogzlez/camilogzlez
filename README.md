@@ -7,6 +7,22 @@
 - :bicyclist: everywhere!
 - Meeting nice and interesting cohunters :octocat::man_with_gua_pi_mao::princess:
 
+Experience!
+
+Karmalama (Suisse) - (Bénévole) - Depuis dec 2023: 
+-Conception et mise en œuvre de la stratégie de tests système et unitaires. 
+-Développement, à l'intégration de nouvelles fonctionnalités et à l'amélioration de la résolution de bugs. 
+
+Avenida+ (Argentine) Mars 2023 à août 2023 : 
+-Maintenance et développement de nouvelles fonctionnalités back et frontend dans les applications SaaS.
+-Implémentation de tests unitaires et d’integration avec Rspec. 
+-Utilisation des conteneurs Docker. 
+-Création et consommation d'APIs. 
+-Intégration avec des systèmes logistiques et de paiement.
+
+-Alkemy (Argentine) juillet 2021 à septembre 2021 
+-Développement de plusieurs points d'accès (API Restful) pour des ONG.
+
 My projects:
 
 :art: http://www.creahub.xyz/
