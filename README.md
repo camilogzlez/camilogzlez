@@ -10,7 +10,7 @@
 My projects:
 
 :art: http://www.creahub.xyz/
-CreativityHub is a Web-App were designers can find their next frelance projecst and companys obtain design proposal for their needs. 
+CreativityHub is a Web-App were designers can find their next frelance projects and companys obtain design proposal for their needs. 
 :octocat: https://github.com/NataliaGatti/CreativeHub
 
 :wine_glass: https://wino-camilogzlez.herokuapp.com/ 
