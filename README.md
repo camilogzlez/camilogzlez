@@ -33,10 +33,6 @@ CreativityHub is a Web-App were designers can find their next freelance projects
 WINO is a Web-App that matches the wine tasting offers by wine shops with wine explorers aiming to discover new wines and have great experiences.
 :octocat: https://github.com/camilogzlez/WINO 
 
- :tropical_drink: https://glacial-brushlands-65883.herokuapp.com/
-A cocktail listing and creation platform. 
-:octocat: https://github.com/camilogzlez/rails-mister-cocktail
-
 :earth_americas: languagues!
 
 :es: Native
